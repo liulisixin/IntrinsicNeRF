@@ -1,0 +1,9 @@
+/Replica_Dataset/
+job
+job*
+.idea/
+Video_Data.tar.gz
+Video_Data/
+logs/
+*.pyc
+

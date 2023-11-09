@@ -1,10 +1,8 @@
 
 experiment:
-  scene_file: "/mnt/nas_8/group/chenshuo/Data/Replica_Dataset/semantic_info/room_0"
-  #scene_file: "/media/eric/仓库/Black/Dataset/Replica_Dataset/semantic_info/room_0"
+  scene_file: "/ghome/yyang/PycharmProjects/IntrinsicNeRF/Replica_Dataset/semantic_info/room_0"
   save_dir: logs/room_0/  # where to store ckpts and rendering
-  dataset_dir: "/mnt/nas_8/group/chenshuo/Data/Replica_Dataset/room_0/Sequence_2"
-  #dataset_dir: "/media/eric/仓库/Black/Dataset/Replica_Dataset/room_0/Sequence_2"
+  dataset_dir: "/ghome/yyang/PycharmProjects/IntrinsicNeRF/Replica_Dataset/room_0/Sequence_2"
   convention: "opencv"
   width: 320
   height: 240
